@@ -45,6 +45,7 @@ This repository contains my Kotlin learning journey, starting from the fundament
 
 ##  Project Structure
 
+```text
 Kotlin-Practice/
 │
 ├── NumberChecker.kt
